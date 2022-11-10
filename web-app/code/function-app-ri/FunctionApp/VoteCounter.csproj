@@ -7,7 +7,7 @@
     <PackageReference Include="Microsoft.Azure.WebJobs.ServiceBus" Version="2.3.0" />
     <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="1.0.26" />
     <PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
-    <PackageReference Include="System.Data.SqlClient" Version="4.6.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />
